@@ -1,1 +1,3 @@
-# pp_lab7
+# Первая работа с JavaFX
+
+![Screenshot](Screen.png)
